@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\StoreManagerApp\\StoreManagerApp orignal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\AddProductForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\AddProductForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditProductForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\EditProductForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditProductForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\EditProductForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\ProductForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\ProductForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditCustomerForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\EditCustomerForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\AddProductForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\AddProductForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditProductForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\EditProductForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\QueryForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\QueryForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\ProductForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\ProductForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditCustomerForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\EditCustomerForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\AddCustomerForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagerApp\\AddCustomerForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "StoreManagerApp\\LoginForm.cs",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\LoginForm.cs",
+              "RelativeToolTip": "StoreManagerApp\\LoginForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:37:48.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProductForm.cs",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "StoreManagerApp\\AddProductForm.cs",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\AddProductForm.cs",
+              "RelativeToolTip": "StoreManagerApp\\AddProductForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:39:51.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StoreManagerApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Form1.Designer.cs",
+              "RelativeToolTip": "StoreManagerApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:53:42.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditProductForm.Designer.cs",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "StoreManagerApp\\EditProductForm.Designer.cs",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditProductForm.Designer.cs",
+              "RelativeToolTip": "StoreManagerApp\\EditProductForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:21:09.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\ProductForm.cs",
+              "RelativeDocumentMoniker": "StoreManagerApp\\ProductForm.cs",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\ProductForm.cs",
+              "RelativeToolTip": "StoreManagerApp\\ProductForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:53:53.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Program.cs",
+              "RelativeDocumentMoniker": "StoreManagerApp\\Program.cs",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Program.cs",
+              "RelativeToolTip": "StoreManagerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:53:57.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditProductForm.resx",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditProductForm.resx",
+              "RelativeDocumentMoniker": "StoreManagerApp\\EditProductForm.resx",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditProductForm.resx",
+              "RelativeToolTip": "StoreManagerApp\\EditProductForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-16T13:05:36.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditCustomerForm.cs",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditCustomerForm.cs",
+              "RelativeDocumentMoniker": "StoreManagerApp\\EditCustomerForm.cs",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditCustomerForm.cs",
+              "RelativeToolTip": "StoreManagerApp\\EditCustomerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:14:05.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Form1.resx",
+              "RelativeDocumentMoniker": "StoreManagerApp\\Form1.resx",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Form1.resx",
+              "RelativeToolTip": "StoreManagerApp\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-16T13:05:37.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProductForm.resx",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\AddProductForm.resx",
+              "RelativeDocumentMoniker": "StoreManagerApp\\AddProductForm.resx",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\AddProductForm.resx",
+              "RelativeToolTip": "StoreManagerApp\\AddProductForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-16T12:53:33.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\App.config",
+              "RelativeDocumentMoniker": "StoreManagerApp\\App.config",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\App.config",
+              "RelativeToolTip": "StoreManagerApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-16T12:53:34.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Form1.cs",
+              "RelativeDocumentMoniker": "StoreManagerApp\\Form1.cs",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\Form1.cs",
+              "RelativeToolTip": "StoreManagerApp\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:53:43.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditProductForm.cs",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditProductForm.cs",
+              "RelativeDocumentMoniker": "StoreManagerApp\\EditProductForm.cs",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditProductForm.cs",
+              "RelativeToolTip": "StoreManagerApp\\EditProductForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:21:08.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductForm.resx",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\ProductForm.resx",
+              "RelativeDocumentMoniker": "StoreManagerApp\\ProductForm.resx",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\ProductForm.resx",
+              "RelativeToolTip": "StoreManagerApp\\ProductForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-16T13:05:39.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditCustomerForm.resx",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditCustomerForm.resx",
+              "RelativeDocumentMoniker": "StoreManagerApp\\EditCustomerForm.resx",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\EditCustomerForm.resx",
+              "RelativeToolTip": "StoreManagerApp\\EditCustomerForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-16T13:05:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QueryForm.resx",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\QueryForm.resx",
+              "RelativeDocumentMoniker": "StoreManagerApp\\QueryForm.resx",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\QueryForm.resx",
+              "RelativeToolTip": "StoreManagerApp\\QueryForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-16T13:05:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddCustomerForm.resx",
+              "DocumentMoniker": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\AddCustomerForm.resx",
+              "RelativeDocumentMoniker": "StoreManagerApp\\AddCustomerForm.resx",
+              "ToolTip": "C:\\StoreManagerApp\\StoreManagerApp orignal\\StoreManagerApp\\AddCustomerForm.resx",
+              "RelativeToolTip": "StoreManagerApp\\AddCustomerForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-16T12:53:32.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

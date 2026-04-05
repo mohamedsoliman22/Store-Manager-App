@@ -1,0 +1,58 @@
+C:\Users\HP\source\repos\StoreManagerApp\bin\Debug\StoreManagerApp.exe.config
+C:\Users\HP\source\repos\StoreManagerApp\bin\Debug\StoreManagerApp.exe
+C:\Users\HP\source\repos\StoreManagerApp\bin\Debug\StoreManagerApp.pdb
+C:\Users\HP\source\repos\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StoreManagerApp\obj\Debug\StoreManagerApp.MainForm.resources
+C:\Users\HP\source\repos\StoreManagerApp\obj\Debug\StoreManagerApp.ProductForm.resources
+C:\Users\HP\source\repos\StoreManagerApp\obj\Debug\StoreManagerApp.Properties.Resources.resources
+C:\Users\HP\source\repos\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StoreManagerApp\obj\Debug\StoreManagerApp.exe
+C:\Users\HP\source\repos\StoreManagerApp\obj\Debug\StoreManagerApp.pdb
+C:\Users\HP\source\repos\StoreManagerApp\obj\Debug\StoreManagerApp.AddProductForm.resources
+C:\Users\HP\source\repos\StoreManagerApp\obj\Debug\StoreManagerApp.EditProductForm.resources
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\bin\Debug\StoreManagerApp.exe.config
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\bin\Debug\StoreManagerApp.exe
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\bin\Debug\StoreManagerApp.pdb
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.AddProductForm.resources
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.EditProductForm.resources
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.MainForm.resources
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.ProductForm.resources
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.Properties.Resources.resources
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.exe
+C:\Users\asus\OneDrive\Desktop\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.pdb
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.AssemblyReference.cache
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.AddCustomerForm.resources
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.AddProductForm.resources
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.EditCustomerForm.resources
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.EditProductForm.resources
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.MainForm.resources
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.ProductForm.resources
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.Properties.Resources.resources
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.QueryForm.resources
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.GenerateResource.cache
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.CoreCompileInputs.cache
+C:\StoreManagerApp\StoreManagerApp\bin\Debug\StoreManagerApp.exe.config
+C:\StoreManagerApp\StoreManagerApp\bin\Debug\StoreManagerApp.exe
+C:\StoreManagerApp\StoreManagerApp\bin\Debug\StoreManagerApp.pdb
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.exe
+C:\StoreManagerApp\StoreManagerApp\obj\Debug\StoreManagerApp.pdb
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\bin\Debug\StoreManagerApp.exe.config
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\bin\Debug\StoreManagerApp.exe
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\bin\Debug\StoreManagerApp.pdb
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.AssemblyReference.cache
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.AddCustomerForm.resources
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.AddProductForm.resources
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.EditCustomerForm.resources
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.EditProductForm.resources
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.MainForm.resources
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.ProductForm.resources
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.Properties.Resources.resources
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.QueryForm.resources
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.GenerateResource.cache
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.CoreCompileInputs.cache
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.exe
+C:\StoreManagerApp\StoreManagerApp orignal\StoreManagerApp\obj\Debug\StoreManagerApp.pdb
